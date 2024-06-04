@@ -1,0 +1,48 @@
+[
+    {
+        "title": "Allgemeinwissen",
+        "questions": [
+            {
+                "question": "Was ist die Hauptstadt von Deutschland?",
+                "answers": [
+                    { "text": "Berlin", "correct": true },
+                    { "text": "München", "correct": false },
+                    { "text": "Hamburg", "correct": false },
+                    { "text": "Köln", "correct": false }
+                ]
+            },
+            {
+                "question": "Welche Sprache wird in Brasilien gesprochen?",
+                "answers": [
+                    { "text": "Spanisch", "correct": false },
+                    { "text": "Portugiesisch", "correct": true },
+                    { "text": "Englisch", "correct": false },
+                    { "text": "Französisch", "correct": false }
+                ]
+            }
+        ]
+    },
+    {
+        "title": "Technologie",
+        "questions": [
+            {
+                "question": "Was ist die am häufigsten verwendete Programmiersprache?",
+                "answers": [
+                    { "text": "JavaScript", "correct": true },
+                    { "text": "Python", "correct": false },
+                    { "text": "Java", "correct": false },
+                    { "text": "C#", "correct": false }
+                ]
+            },
+            {
+                "question": "Welches Unternehmen hat das iPhone entwickelt?",
+                "answers": [
+                    { "text": "Google", "correct": false },
+                    { "text": "Apple", "correct": true },
+                    { "text": "Microsoft", "correct": false },
+                    { "text": "Samsung", "correct": false }
+                ]
+            }
+        ]
+    }
+]
